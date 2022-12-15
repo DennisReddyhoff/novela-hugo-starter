@@ -4,6 +4,5 @@ bio: Researcher and Mathematician
 avatar: ''
 social: []
 featured: false
-draft: true
 
 ---
