@@ -1,6 +1,6 @@
 ---
-title: Dennia
-bio: ''
+title: Dennis Reddyhoff
+bio: Researcher and Mathematician
 avatar: ''
 social: []
 featured: false
